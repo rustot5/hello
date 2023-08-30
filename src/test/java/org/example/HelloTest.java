@@ -11,4 +11,4 @@ public class HelloTest {
     public void testDoIt() {
         assertEquals(Utils.HELLO_MESSAGE, unit.doIt());
     }
-}:
+}
