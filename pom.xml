@@ -6,7 +6,7 @@
     <artifactId>hello</artifactId>
     <version>1.0</version>
     <description>POM-based micro project with tests and reports</description>
-    <url>https://github.com/</url>
+    <url>https://github.com/rustot5/hello</url>
 
     <licenses>
         <license>
