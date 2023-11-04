@@ -5,6 +5,7 @@ Hello, world!
 Usage
 -----
 mvn clean integration-test site
+mvn clean compile exec:java
 
 License
 -------
